@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PolarMix
 - 👀 I’m interested in coding
-- 🌱 I’m currently trying to learn python and other types of coding
+- 🌱 I’m currently trying to learn C# and other types of coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: danielvalente1303@gmail.com
 
